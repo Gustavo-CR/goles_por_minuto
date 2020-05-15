@@ -1,7 +1,5 @@
 ## Cargar librerías ====
 library(tidyverse)
-library(httr)
-library(jsonlite)
 
 ## Cargar datos ====
 load("fixtures_goals_de.Rdata")
